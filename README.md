@@ -1,2 +1,3 @@
 # ECLMS-VTS
-The program is the efficient implementation with adaptive time-stepping strategy for the system of coupled wave equations.
+ This code provides an efficient implementation of a Lagrange multiplier-based approach to solve systems of nonlinear wave equations with an adaptive time-stepping strategy.
+
